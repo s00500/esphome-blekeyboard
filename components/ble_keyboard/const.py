@@ -63,8 +63,8 @@ LIBS_ADDITIONAL: Final = [
         None,
     ),
     (
-        "t-vk/ESP32 BLE Keyboard",
-        "0.3.2",
+        "s00500/ESP32 BLE Keyboard",
+        "master",
         None,
     ),
 ]
