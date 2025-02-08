@@ -63,7 +63,7 @@ LIBS_ADDITIONAL: Final = [
         None,
     ),
     (
-        "s00500/ESP32 BLE Keyboard",
+        "https://github.com/s00500/ESP32-BLE-Keyboard",
         "",
         None,
     ),
